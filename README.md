@@ -5,3 +5,4 @@ NIM : 1252002015
 Jurusan : Sistem Informasi
 Minat : olahraga
 saya sedang belajar git hub
+saya sedang belajar git
